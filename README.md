@@ -3,7 +3,6 @@
 </div>
 
 
-
 <h2 align="center">Welcome to Adeline's Github!</h2>
 <div align="center">
 Adeline Oh 오은결 (She/Her or They/Them)
@@ -13,8 +12,12 @@ Adeline Oh 오은결 (She/Her or They/Them)
 여러모로 초보입니다. 하지만 마음은 진심입니다!
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <a href="https://velog.io/@ad31nf/">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://velog.io/@ad31nf/">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  </a>
 </div>
 
 <h3 align="center">MAIN STACK</h3>
