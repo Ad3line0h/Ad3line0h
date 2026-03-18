@@ -12,7 +12,7 @@ Adeline Oh 오은결 (She/Her or They/Them)
 여러모로 초보입니다. 하지만 마음은 진심입니다!
 
 <div align="center">
-  <a href="https://velog.io/@ad31nf/">
+  <a href="mailto:skanmim12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   <a href="https://velog.io/@ad31nf/">
